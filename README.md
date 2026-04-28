@@ -1,7 +1,7 @@
 # Hi there, I'm Arslan! 👋
-### 🚀 Frontend Developer | JavaScript Enthusiast
+### 🚀 Senior Software Developer | Product Manager
 
-I am a passionate software developer focused on building clean, user-friendly, and performant web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+I am a seasoned software professional with extensive experience in building and scaling complex enterprise systems. My expertise lies at the intersection of **Full-Stack Development**, **Systems Architecture**, and **Product Strategy**, ensuring that technical solutions drive real business value.
 
 ---
 
