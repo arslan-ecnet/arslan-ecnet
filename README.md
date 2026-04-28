@@ -1,97 +1,60 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Arslan!+👋;Senior+Software+Developer;Product+Manager+&+AI+Enthusiast;Transforming+Ideas+into+Reality" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <i>A seasoned software professional specializing in building scalable enterprise systems. My expertise bridges the gap between <b>Full-Stack Development</b>, <b>Systems Architecture</b>, and <b>Product Strategy</b>.</i>
-</p>
-
-<p align="center">
-  <a href="mailto:arslan@ecnetsolutions.net"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/arslan-ecnet"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
----
-
-### 🛠️ Tech Stack & Arsenal
-
-<details open>
-  <summary><b>💻 Programming & Scripting</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</details>
-
-<details open>
-  <summary><b>🎨 Frontend & UI</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</details>
-
-<details open>
-  <summary><b>🗄️ Databases & DevOps</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</details>
-
-<br/>
-
-**Integrations:** `Stripe` 💳 | `PayPal` 💰 | `Travelport` ✈️ | `SOAP/REST APIs` 🔌
-
----
-
-### 🤖 The AI & Automation Edge
-
-I engineer intelligent workflows that eliminate repetitive tasks and supercharge organizational productivity.
-
-- 🧠 **AI Architecture:** Leveraging powerhouses like **DeepSeek**, **Gemini**, and **OpenAI** for smart applications.
-- ⚡ **Orchestration:** Python-driven bots and workflows seamlessly connecting **WhatsApp**, **Gmail**, and CRM systems.
-- 🌐 **Modern Delivery:** Architecting responsive, production-ready platforms with uncompromising user experiences.
-
----
-
-### 🌟 Spotlight Project
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/arslan-ecnet/QuranCity">🕌 QuranCity</a></h3>
-      <p>A high-performance Islamic platform built to provide seamless access to Quranic teachings. Features a modern, intuitive UI and highly optimized translation modules for an uninterrupted reading experience.</p>
-    </td>
-    <td width="50%" align="center">
-      <i>"Bridging technology and spirituality."</i>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Metrics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arslan-ecnet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Arslan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslan-ecnet&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslan-ecnet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=arslan-ecnet&color=0078D4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <h1>Hi there, I'm Arslan! 👋</h1>
+  <a href="https://github.com/arslan-ecnet">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Senior+Software+Developer;Product+Manager;AI+%26+Automation+Expert" alt="Typing SVG" />
+  </a>
+  <p><b>Bridging the gap between technical complexity and real business value.</b></p>
 </div>
 
 ---
 
+### 👨‍💻 About Me
+- 🔭 I’m currently working on building scalable enterprise systems and **AI Automations**.
+- 🌱 I’m constantly exploring deeper integrations with **DeepSeek, Gemini, and OpenAI**.
+- 💬 Ask me about **Full-Stack Development, Systems Architecture, and Product Strategy**.
+- ⚡ Fun fact: *The best way to predict the future is to automate it.*
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+| **DevOps & Env**| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![WSL](https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=windows&logoColor=white) |
+| **Integrations**| `Stripe` • `PayPal` • `Travelport` • `SOAP/REST APIs` |
+
+---
+
+### 🤖 AI & Automation Expert
+I specialize in architecting intelligent automation tools that bridge communication gaps and boost productivity.
+
+* 🤖 **AI Integration**: Engineering smart apps using **DeepSeek**, **Gemini**, and **OpenAI**.
+* ⚡ **Workflow Automation**: Building Python-driven orchestration for WhatsApp, Gmail, and CRM APIs.
+* 🌐 **Product Strategy**: Transforming complex business requirements into production-ready web platforms.
+
+---
+
+### 📂 Featured Project
+🚀 [**QuranCity**](https://github.com/arslan-ecnet/QuranCity)
+> *A high-performance Islamic platform built to provide seamless access to Quranic teachings, featuring a modern UI and optimized translation modules.*
+
+---
+
+### 📊 Activity & Statistics
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arslan-ecnet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arslan's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslan-ecnet&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+### 📫 Connect with Me
+<div align="center">
+  <a href="mailto:arslan@ecnetsolutions.net"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/arslan-ecnet"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
