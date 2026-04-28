@@ -51,8 +51,8 @@ I specialize in building intelligent automation tools designed to streamline com
 
 ### 📫 Connect with Me
 - 🐙 **GitHub**: [@arslan-ecnet](https://github.com/arslan-ecnet)
-- 📧 **Email**: (Add your email address here)
-- 💼 **LinkedIn**: (Add your LinkedIn profile link here)
+- 📧 **Email**: (arslan@ecnetsolutions.net)
+
 
 ---
 > *"Code is like humor. When you have to explain it, it’s bad."*
