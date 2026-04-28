@@ -10,10 +10,10 @@
 ---
 
 ### 👨‍💻 About Me
-* 🔭 I’m currently working on building scalable enterprise systems and **AI Automations**.
-* 🌱 I’m constantly exploring deeper integrations with **DeepSeek, Gemini, and OpenAI**.
-* 💬 Ask me about **Full-Stack Development, Systems Architecture, and Product Strategy**.
-* ⚡ Fun fact: *The best way to predict the future is to automate it.*
+- 🔭 I’m currently working on building scalable enterprise systems and **AI Automations**.
+- 🌱 I’m constantly exploring deeper integrations with **DeepSeek, Gemini, and OpenAI**.
+- 💬 Ask me about **Full-Stack Development, Systems Architecture, and Product Strategy**.
+- ⚡ Fun fact: *The best way to predict the future is to automate it.*
 
 ---
 
